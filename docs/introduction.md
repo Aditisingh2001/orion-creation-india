@@ -2,8 +2,6 @@
 
 Orion is an open source framework built on Meteor that makes complex as well as simple apps possible with minimal effort. It's built, modified, used, and supported by an active community of people around the world.
 
-> Project sponsored by [Orion Hosting](https://orion.hosting/?utm_source=github-orionjs) - Hosting for Meteor
-
 ## Getting Started
 
 To start your orion instance the first thing you need to do is install the core package, a admin template and a router.
@@ -63,18 +61,11 @@ And go
 - **Gitter:** [gitter.im/orionjs/orion](https://gitter.im/orionjs/orion)
 - **Preview:** [orion-example.meteor.com](http://orion-example.meteor.com)
 - **Roadmap:** [trello.com/b/dQhi5dF9/orion-roadmap](https://trello.com/b/dQhi5dF9/orion-roadmap)
+- **Newsletter:** [subscribe](http://eepurl.com/bbji3b)
 
 ### Translate Orion
 
 If you want to help translating Orion to your language follow the [instructions](https://github.com/orionjs/examples/tree/master/language).
-
-## Made With Orion
-
-- [franciscainfante.com](http://franciscainfante.com?utm_source=orion-madeby&utm_medium=orion-github&utm_campaign=orion-madeby) - [Source](https://github.com/madeby-nicolaslopezj/fran2)
-- [weeshing.com](http://weeshing.com?utm_source=orion-madeby&utm_medium=orion-github&utm_campaign=orion-madeby)
-
-Feel free to add your made with Orion site doing a pull request.
-
 
 ## Community Add-On Packages
 
@@ -99,23 +90,20 @@ Feel free to add your made with Orion site doing a pull request.
 - [vsivsi:orion-file-collection](https://atmospherejs.com/vsivsi/orion-file-collection) Lightweight MongoDB gridFS support
 - [lc3t35:orion-filesystem-local](https://github.com/lc3t35/orion-filesystem-local)
 - [brightbind:orion-gridfs](https://github.com/brightbind/orion-gridFS/)
-- [rwatts:orionjs-cloudinary](https://atmospherejs.com/rwatts/orionjs-cloudinary)
 
 **Languages:**
 
-- [tunifight:orion-lang-ar](https://github.com/nabiltntn/orion-lang-ar.git) Arabic
-- [findegil:orion-lang-bg](https://atmospherejs.com/findegil/orion-lang-bg) Bulgarian
-- [loongmxbt:orion-lang-zh-cn](https://github.com/loongmxbt/orion-lang-zh-cn) Chinese Simplified
+- [orionjs:lang-es](https://github.com/orionjs/orion/tree/master/packages/lang-es) Spanish
 - [jorisroling:orion-lang-nl](https://github.com/jorisroling/orion-lang-nl) Dutch
 - [pierreeric:orion-lang-fr](https://atmospherejs.com/pierreeric/orion-lang-fr) French
-- [budickda:orion-lang-de](https://atmospherejs.com/budickda/orion-lang-de) German
-- [palpinter:orion-lang-hu](https://github.com/palpinter/orion-lang-hu.git) Hungarian
-- [aselox:orion-lang-it](https://atmospherejs.com/aselox/orion-lang-it) Italian
-- [brajt:orion-lang-pl](https://github.com/brajt/orion-lang-pl) Polish
+- [loongmxbt:orion-lang-zh-cn](https://github.com/loongmxbt/orion-lang-zh-cn) Simplified Chinese
 - [goooseman:orion-lang-ru](https://github.com/goooseman/orion-lang-ru) Russian
-- [eyeskiller:orion-lang-sk](https://github.com/eyeskiller/orion-lang-sk) Slovak
-- [orionjs:lang-es](https://github.com/orionjs/orion/tree/master/packages/lang-es) Spanish
-- [berkbadem:orion-lang-tr](https://github.com/berkbadem/orion-lang-tr) Turkish
+- [aselox:orion-lang-it](https://atmospherejs.com/aselox/orion-lang-it) Italian
+- [palpinter:orion-lang-hu](https://github.com/palpinter/orion-lang-hu.git) Hungarian
+- [tunifight:orion-lang-ar](https://github.com/nabiltntn/orion-lang-ar.git) Arabic
+- [budickda:orion-lang-de](https://atmospherejs.com/budickda/orion-lang-de) German
+- [brajt:orion-lang-pl](https://github.com/brajt/orion-lang-pl) Polish
+- [findegil:orion-lang-bg](https://atmospherejs.com/findegil/orion-lang-bg) Bulgarian
 
 **Integrations:**
 
@@ -125,5 +113,3 @@ Feel free to add your made with Orion site doing a pull request.
 **Others:**
 
 - [nicolaslopezj:orion-exporter](https://github.com/nicolaslopezj/orion-exporter) Export and import Orion data
-- [rwatts:orionjs-dashboard](https://atmospherejs.com/rwatts/orionjs-dashboard) Add a Dashboard & Widgets to Orion
-
